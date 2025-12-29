@@ -1,0 +1,16 @@
+# Data
+data/*.csv
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
