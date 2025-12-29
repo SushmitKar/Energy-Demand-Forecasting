@@ -14,7 +14,7 @@ critical real-world question:
 
 The complete technical report, including methodology, experiments, plots, and analysis, is available here:
 
-➡️ **[Full Project Report (Jupyter Notebook)](notebooks/project_report.ipynb)**
+➡️ **[Full Project Report (Jupyter Notebook)](notebooks/Project_Report.ipynb)**
 
 The report documents:
 - Data preprocessing and feature engineering
